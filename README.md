@@ -3,9 +3,9 @@
 Ce repository github contient les TP de Python et des documents de référence Python (mémo, ...)
 
 # GITHUB // TP
-* [TP #1 (instructions)](../../tree/master/TP #1 - sujet.md)
-* [TP #1 (correction)](TP1 (exemple de code)/)
-* [TP #2 (instructions)](TP #2 - sujet.md)
+* [TP #1 (instructions)](TP %231 - sujet.md)
+* [TP #1 (correction)](../../tree/master/TP1 (exemple de code))
+* [TP #2 (instructions)](TP %232 - sujet.md)
 * Fichiers de donnees d'Installations et Equipements Sportifs : [extraits de data.paysdelaloire.fr du 5/02/2015](data.paysdelaloire.fr/data.paysdelaloire.zip)
 * cf. aussi le readme.md sur le [github de Sébastien Prunier](https://github.com/sebprunier/installations-sportives-pdl) (autre enseignant qui intervient sur un autre groupe de TP) 
 
