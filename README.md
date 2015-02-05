@@ -3,7 +3,7 @@
 Ce repository github contient les TP de Python et des documents de référence Python (mémo, ...)
 
 # GITHUB // TP
-* [TP #1 (instructions)](TP #1 - sujet.md)
+* [TP #1 (instructions)](../../tree/master/TP #1 - sujet.md)
 * [TP #1 (correction)](TP1 (exemple de code)/)
 * [TP #2 (instructions)](TP #2 - sujet.md)
 * Fichiers de donnees d'Installations et Equipements Sportifs : [extraits de data.paysdelaloire.fr du 5/02/2015](data.paysdelaloire.fr/data.paysdelaloire.zip)
