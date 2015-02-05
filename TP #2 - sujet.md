@@ -4,9 +4,6 @@ TP #2
 cf. le readme.md sur le github de Sébastien Prunier :
 https://github.com/sebprunier/installations-sportives-pdl
 
-Pour les sujets de TP & memo PDF du langage Python :
-https://github.com/apdp/     ==> à regarder à partir de demain
-
 ## EXCEPTIONS
   . regarder comme utiliser les exceptions
      => cf. librairie Python §exceptions
