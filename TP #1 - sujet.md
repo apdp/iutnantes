@@ -1,15 +1,3 @@
-REFERENCES
-==========
-     . doc / tuto en ligne
-            officiel => https://docs.python.org/3.3/
-               syntaxe => https://docs.python.org/3.3/reference/index.html
-               librairies (API) => https://docs.python.org/3.3/library/index.html
-            MEMO1 => http://gervaisprof.free.fr/ISN/MEMO_debuts_en_Python.pdf
-            MEMO2 (en anglais)
-             => http://perso.limsi.fr/pointal/_media/python:cours:abregepython-english.pdf
-            mooc => http://openclassrooms.com/courses/apprenez-a-programmer-en-python
-      . prise en main environnement de développement (avec Eclipse / pyDev => http://pydev.org/updates)
-            => http://python.jpvweb.com/mesrecettespython/doku.php?id=eclipse_pydev
 
 TP #1
 =====
