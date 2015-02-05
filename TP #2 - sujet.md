@@ -5,12 +5,12 @@ cf. le readme.md sur le github de Sébastien Prunier :
 https://github.com/sebprunier/installations-sportives-pdl
 
 ## EXCEPTIONS
-  . regarder comme utiliser les exceptions
-     => cf. librairie Python §exceptions
+  . regarder comment utiliser les exceptions
+     => cf. [librairie Python §exceptions](https://docs.python.org/3.3/library/exceptions.html)
 
 ## TESTS et DOCUMENTATION
-  . regarder comment ajouter de la documentation de code (dostring)
-  . utiliser des Tests Unitaires
+  . regarder comment ajouter de la [documentation de code (dostring)](https://docs.python.org/3/library/doctest.html#module-doctest)
+  . utiliser des [Tests Unitaires](https://docs.python.org/3/library/unittest.html)
 
 ## CSV des Installations Sportives des Pays de la Loire
 
