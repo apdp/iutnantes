@@ -1,7 +1,7 @@
 TP #2 et #3
 ==============================================================================================
 
-**VOUS VOUS METTRER EN BINOME POUR LA SUITE DU TP**
+**VOUS VOUS METTREZ EN BINOME POUR LA SUITE DU TP**
 
 ## Données d'Installations Sportives des Pays de la Loire
 1. telecharger les 3 fichiers CSV jeux de données, au format CSV : 
